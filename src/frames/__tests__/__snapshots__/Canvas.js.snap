@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginLeft": 15,
+          "marginRight": 15,
+        },
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={null}
+    >
+      <View
+        pointerEvents="box-only"
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#9E9E9E",
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "padding": 19,
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "padding": 12,
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              },
+              Array [
+                Object {
+                  "marginRight": 10,
+                },
+                undefined,
+              ],
+              Object {
+                "fontFamily": "FontAwesome",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+          type="font-awesome"
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {},
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 20,
+                },
+                undefined,
+                Object {
+                  "fontSize": 17.5,
+                },
+                undefined,
+                undefined,
+                undefined,
+                undefined,
+                undefined,
+              ],
+            ]
+          }
+        >
+          Close
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+    >
+      GRAPHICS ART CANVAS (LOTTIE-STYLE)
+    </Text>
+  </View>
+</View>
+`;

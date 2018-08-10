@@ -23,7 +23,7 @@
     "jsc-android": "224109.0.0",
     "mobx": "5.0.3",
     "mobx-persist": "0.4.1",
-    "mobx-react": "5.2.3",
+    "mobx-react": "5.2.4",
     "netcat": "1.3.5",
     "node-libs-browser": "2.1.0",
     "peer0": "18.6.30-d",

@@ -24,7 +24,7 @@
     "ethers": "3.0.25",
     "events": "1.1.1",
     "jsc-android": "224109.0.0",
-    "mobx": "4.3.1",
+    "mobx": "5.0.4",
     "mobx-persist": "0.4.1",
     "mobx-react": "5.2.3",
     "moment": "2.22.2",

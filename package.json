@@ -21,7 +21,7 @@
     "buffer-equal": "1.0.0",
     "bugsnag-react-native": "2.10.0",
     "elliptic": "6.4.0",
-    "ethers": "3.0.25",
+    "ethers": "3.0.27",
     "events": "1.1.1",
     "jsc-android": "224109.0.0",
     "mobx": "4.3.1",

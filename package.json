@@ -45,7 +45,7 @@
     "react-native-tcp": "3.3.0",
     "react-native-timer": "1.3.3",
     "react-native-vector-icons": "5.0.0",
-    "realm": "2.15.3",
+    "realm": "2.16.0",
     "secp256k1": "3.5.0",
     "xml-js": "1.6.7",
     "zeronet-msgpack": "3.6.0"

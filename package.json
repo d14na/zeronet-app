@@ -39,7 +39,7 @@
     "react-native-device-info": "0.21.5",
     "react-native-elements": "0.19.1",
     "react-native-fs": "2.10.14",
-    "react-native-keychain": "3.0.0",
+    "react-native-keychain": "3.1.0",
     "react-native-navigation": "react-native-navigation@alpha",
     "react-native-randombytes": "3.4.0",
     "react-native-tcp": "3.3.0",

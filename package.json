@@ -20,7 +20,7 @@
     "babel-preset-react-native-stage-0": "1.0.1",
     "bitcoinjs-message": "2.0.0",
     "buffer-equal": "1.0.0",
-    "bugsnag-react-native": "2.21.1",
+    "bugsnag-react-native": "2.22.1",
     "elliptic": "6.4.0",
     "ethers": "3.0.25",
     "events": "1.1.1",

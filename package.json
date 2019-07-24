@@ -15,7 +15,7 @@
     "postinstall": "rn-nodeify --install events --hack; rm -rf ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json"
   },
   "dependencies": {
-    "amplitude": "3.5.0",
+    "amplitude": "4.0.0",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react-native-stage-0": "1.0.1",
     "bitcoinjs-message": "2.0.0",

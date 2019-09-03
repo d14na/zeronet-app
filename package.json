@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "amplitude": "4.0.0",
-    "bugsnag-react-native": "2.23.0",
+    "bugsnag-react-native": "2.23.1",
     "ethers": "4.0.36",
     "mobx": "5.13.0",
     "mobx-persist": "0.4.1",

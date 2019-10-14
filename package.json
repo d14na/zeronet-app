@@ -21,7 +21,7 @@
     "ethers": "4.0.36",
     "mobx": "4.10.0",
     "mobx-persist": "0.4.1",
-    "mobx-react": "5.4.4",
+    "mobx-react": "6.1.4",
     "moment": "2.24.0",
     "numeral": "2.0.6",
     "react": "16.8.6",

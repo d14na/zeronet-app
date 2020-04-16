@@ -36,7 +36,7 @@
     "react-native-webview": "7.0.1",
     "readable-stream": "1.0.33",
     "realm": "2.29.2",
-    "stream-browserify": "1.0.0"
+    "stream-browserify": "3.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",
